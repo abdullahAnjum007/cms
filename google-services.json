@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "205545712114",
+    "project_id": "tdf-scifix",
+    "storage_bucket": "tdf-scifix.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205545712114:android:ddd72f6c99f7adea68236b",
+        "android_client_info": {
+          "package_name": "com.cms.cmsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-fg3Asdouv0jyO2jh5FhCfrctPUmJc_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
