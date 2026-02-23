@@ -1,9 +1,8 @@
 import axios from "axios";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 
-// export const BASE_URL = "https://cms-backend-lake-theta.vercel.app/api";
-// export const BASE_URL = "https://backend-10c1.onrender.com/api";
-export const BASE_URL = "https://backend-client-production-74b1.up.railway.app/api";
+
+export const BASE_URL = "enter your backend url here";
 
 const api = axios.create({
   baseURL: BASE_URL,
